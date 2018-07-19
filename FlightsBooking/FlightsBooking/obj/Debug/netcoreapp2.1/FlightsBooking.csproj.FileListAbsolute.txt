@@ -1,0 +1,28 @@
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.deps.json
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.runtimeconfig.json
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.runtimeconfig.dev.json
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.dll
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.csprojAssemblyReference.cache
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.csproj.CoreCompileInputs.cache
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorAssemblyInfo.cache
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorAssemblyInfo.cs
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.AssemblyInfoInputs.cache
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.AssemblyInfo.cs
+c:\users\parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorTargetAssemblyInfo.cache
+C:\Users\Parv\source\repos\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.pdb
+C:\Users\Parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.dll
+C:\Users\Parv\source\repos\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.pdb
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.deps.json
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.runtimeconfig.json
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.runtimeconfig.dev.json
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.dll
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\bin\Debug\netcoreapp2.1\FlightsBooking.pdb
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.csprojAssemblyReference.cache
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.csproj.CoreCompileInputs.cache
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorAssemblyInfo.cache
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorAssemblyInfo.cs
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.AssemblyInfoInputs.cache
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.AssemblyInfo.cs
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.RazorTargetAssemblyInfo.cache
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.dll
+F:\Study and Learning\Development\Flights\FlightsBooking\FlightsBooking\obj\Debug\netcoreapp2.1\FlightsBooking.pdb
