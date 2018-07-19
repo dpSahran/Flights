@@ -10,6 +10,7 @@ a local sql database.
 
 ------------------------------------------------------------------------------------------
 Operation related to check Availabilities are in controller CheckAvailableFlightController.
+
 URI: /api/availableflight/2?startDate=2018-01-01&endDate=2018-03-01
 
 HTTP Method: GET
